@@ -4,6 +4,21 @@
 
 <img width="506" alt="image" src="https://github.com/Algorithm-Arena/weekly-challenge-22-concert-effects/assets/197597/6d263426-6aeb-41c2-ac4c-a7a35b1e2c4a">
 
+### Winners:
+
+* The winner for $75 is @Nakatox! Using an attractor with circles of different sizes is very simple to code yet results in really cool looking art! https://github.com/Algorithm-Arena/weekly-challenge-22-concert-effects/issues/2
+
+
+
+https://github.com/user-attachments/assets/ce2c63ac-4923-4663-9640-5601e0067af8
+
+
+
+* In second place with $50 is Krayorn! The idea of using the music intensity to control the animation is very interesting, reminds me of Winamp! https://github.com/Algorithm-Arena/weekly-challenge-22-concert-effects/issues/1
+
+
+https://github.com/user-attachments/assets/9da18b58-aff9-4b2f-8545-8f20ca4c47ca
+
 
 ### Prizes:
 * Winner: $75
