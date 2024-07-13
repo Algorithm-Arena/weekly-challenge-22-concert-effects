@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/ce2c63ac-4923-4663-9640-5601e0067af8
 
 
 
-* In second place with $50 is Krayorn! The idea of using the music intensity to control the animation is very interesting, reminds me of Winamp! https://github.com/Algorithm-Arena/weekly-challenge-22-concert-effects/issues/1
+* In second place with $50 is @Krayorn! The idea of using the music intensity to control the animation is very interesting, reminds me of Winamp! https://github.com/Algorithm-Arena/weekly-challenge-22-concert-effects/issues/1
 
 
 https://github.com/user-attachments/assets/9da18b58-aff9-4b2f-8545-8f20ca4c47ca
